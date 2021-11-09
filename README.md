@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Fl1tzi/Fl1tzi/main/Fl1tzi-6.png" />
+  E-Mail: github@tgerber.net
 </p>
 
 ---
