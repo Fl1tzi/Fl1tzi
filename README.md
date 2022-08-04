@@ -5,7 +5,7 @@ E-Mail: github@tgerber.net
 
 ---
 
-### Active projects
+### Active
 
 - [Pulsemeeter](https://github.com/theRealCarneiro/pulsemeeter)
 - ...private repos
