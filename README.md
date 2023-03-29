@@ -1,9 +1,3 @@
-```
-E-Mail: github@tgerber.net
-```
+I mainly moved to Codeberg. Meet me over there:
 
-
----
-
-I like FOSS.
-
+https://codeberg.org/Fl1tzi
