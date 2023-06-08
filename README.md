@@ -1,6 +1,6 @@
 > **INFORMATION:**
 >
-> I don't use GitHub anymore. I usually just contribute to other projects here.
+> I don't usually use GitHub. I just contribute to other projects here.
 
 ---
 
