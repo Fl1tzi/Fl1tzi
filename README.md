@@ -4,12 +4,5 @@
 
 ---
 
-**I usually host my projects here:**
-
+Find me at 
 [Codeberg](https://codeberg.org/Fl1tzi)
-
----
-
-**Personal projects:**
-
-[G1T](https://git.fl1tzi.com/)
